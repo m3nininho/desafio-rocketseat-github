@@ -1,0 +1,11 @@
+.nameBox{
+  display: flex;
+  align-items: center;
+  padding: 2rem;
+  justify-content: right;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+#outName{
+  text-transform: uppercase;
+}

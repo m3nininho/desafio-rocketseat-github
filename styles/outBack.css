@@ -1,0 +1,10 @@
+#outBack{
+  background: #0E1218;
+  max-width: 40rem;
+  height: 50rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;  
+  border-radius: 5rem;
+
+}

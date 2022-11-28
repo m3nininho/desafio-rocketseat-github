@@ -1,0 +1,28 @@
+.informationBox{
+  width: 10rem;
+  margin: 0 auto;
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+}
+.informationBox p{
+  font-size: 1.200rem;
+}
+#outFollowers{
+  color: aqua;
+  font-size: 1.35rem;
+  font-weight: bold;
+}
+#outFollowing{
+  color: brown;
+  font-size: 1.15rem;
+  font-weight: bold;
+}
+#outRepository{
+  color: green;
+  font-size: 1.15rem;
+  font-weight: bold;
+}

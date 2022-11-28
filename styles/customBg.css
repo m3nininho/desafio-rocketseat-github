@@ -1,0 +1,22 @@
+.customBg{
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+}
+.customBg h2{
+  text-transform: uppercase;
+  font-size: 1.65rem;
+  letter-spacing: 0.15rem;
+}
+#btnBackground{
+  width: 20rem;
+  height: 5rem;
+  background: #000;
+  color: white;
+  text-transform: uppercase;
+  border: 2px solid #1A1A1A;
+  border-radius: 5rem;
+}
